@@ -1,4 +1,3 @@
-```markdown
 # Welcome to My Domain Inquiry Toolkit
 
 ## A Personal Introduction
